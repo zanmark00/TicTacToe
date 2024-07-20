@@ -28,5 +28,5 @@ This is a Python implementation of the classic Tic Tac Toe game. The project inc
   Make sure you have Python installed. You may also need to install additional dependencies, which can be managed using pip.
 
 3. Run the game:
-
-  python main.py
+   ```bash
+   python main.py
